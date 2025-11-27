@@ -1,20 +1,15 @@
 # **Expense Management System**
 
-## 🌐 GitHub Repo  
+## GitHub Repo  
 ```bash
-https://github.com/Prakashsaw/Expense-Management-System
+https://github.com/anamikalodhi01/ExpenseWise.git
 ```
 
-## 🚀 Live Demo  
-```bash
-https://expense-management-system-prakash.netlify.app/
-```
-
-## 📌 Description  
+## Description  
 The **Expense Management System** is a web-based application designed to help users efficiently track and manage their financial transactions.  
 It provides features like user authentication, expense tracking, and data visualization to ensure a seamless budgeting experience.
 
-### 🔹 Key Functionalities:  
+### Key Functionalities:  
 - **User Authentication:** Secure login & registration with **email verification**.  
 - **Password Security:** **Bcrypt** encryption for passwords and **JWT token-based authentication**.  
 - **Password Recovery:** Forgot password functionality with email-based reset link.  
@@ -26,7 +21,7 @@ It provides features like user authentication, expense tracking, and data visual
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 ### **Frontend:**  
 - React.js, Bootstrap, Ant Design, CSS  
@@ -39,7 +34,7 @@ It provides features like user authentication, expense tracking, and data visual
 
 ---
 
-## ⚙️ Run Locally  
+## Run Locally  
 
 ### **Step 1: Clone the project**  
 ```bash
@@ -105,25 +100,25 @@ Once the setup is complete, the app will be running on your local system.
 
 ---
 
-## 🔥 Features
+## Features
 
-- **🔒 Secure User Authentication:** Register, log in, and log out securely.  
-- **📧 Email Verification:** Verify accounts via a confirmation link sent to the email.  
-- **🔑 Password Management:** Forgot password functionality with email reset link.  
-- **📝 User Profile Management:** Update profile details and change passwords after login.  
+- **Secure User Authentication:** Register, log in, and log out securely.  
+- **Email Verification:** Verify accounts via a confirmation link sent to the email.  
+- **Password Management:** Forgot password functionality with email reset link.  
+- **User Profile Management:** Update profile details and change passwords after login.  
 
-- **💰 Transaction Management:**  
+- **Transaction Management:**  
   - Add, edit, and delete financial transactions with confirmation prompts.  
   - Categorize transactions into **income** or **expenses**.  
-  - **🔍 Search Transactions:** Quickly search for transactions using keywords.  
-  - **📤 Export to Excel:** Download filtered transactions as an Excel file with a **date-based filename**.  
+  - **Search Transactions:** Quickly search for transactions using keywords.  
+  - **Export to Excel:** Download filtered transactions as an Excel file with a **date-based filename**.  
 
-- **📊 Financial Overview:**  
+- **Financial Overview:**  
   - View transaction history **weekly, monthly, and yearly**.  
   - Filter transactions by **custom date range**.  
   - Filter by **income, expenses, or both**.  
 
-- **📈 Data Analytics:** Interactive **graphs & charts** for expense tracking.
+- **Data Analytics:** Interactive **graphs & charts** for expense tracking.
 
 
 ---
