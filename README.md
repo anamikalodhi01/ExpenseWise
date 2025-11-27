@@ -1,4 +1,4 @@
-# **Expense Management System**
+# **ExpenseWise - Expense Management System**
 
 ## GitHub Repo  
 ```bash
