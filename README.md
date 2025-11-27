@@ -120,5 +120,4 @@ Once the setup is complete, the app will be running on your local system.
 
 - **Data Analytics:** Interactive **graphs & charts** for expense tracking.
 
-
 ---
